@@ -4,7 +4,7 @@ export default StyleSheet.create({
     container: {
         flex: 1,
         paddingHorizontal: 24,
-        paddingTop: ConstantSourceNode.statusBarHeight + 24
+        paddingTop: 24
     },
 
     header: {
